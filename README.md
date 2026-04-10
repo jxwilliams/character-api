@@ -42,8 +42,8 @@ Hibernate generates the table using the entity.
 
 Demo Video
 
-https://uncg-my.sharepoint.com/:v:/r/personal/jxwilliams_uncg_edu/Documents/Screen%20Recording%202026-03-06%20at%2012.36.38%E2%80%AFPM.mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hXGAVN)
-Author
+[https://uncg-my.sharepoint.com/:v:/r/personal/jxwilliams_uncg_edu/Documents/Screen%20Recording%202026-03-06%20at%2012.36.38%E2%80%AFPM.mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hXGAVN)
+Author](https://uncg-my.sharepoint.com/:v:/g/personal/jxwilliams_uncg_edu/IQDKDsU0w88DSJaeoKAwxnDLAYbzoa9Eig-HzeDVN_aRYaY?e=OjJWhc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Jowuan Williams
 UNC Greensboro
