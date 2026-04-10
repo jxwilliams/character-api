@@ -1,5 +1,7 @@
 package com.jowuan.characterapi.controller;
 
+import org.springframework.web.bind.annotation.RestController;
+
 import com.jowuan.characterapi.entity.Character;
 import com.jowuan.characterapi.service.CharacterService;
 import org.springframework.http.ResponseEntity;
@@ -9,7 +11,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/characters")
+@RequestMapping("/api/characters")
 public class CharacterController {
 
     private final CharacterService characterService;
